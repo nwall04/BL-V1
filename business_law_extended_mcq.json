@@ -1,0 +1,146 @@
+[
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "What is the first step in the risk management process?",
+    "choices": [
+      "Evaluate",
+      "Respond",
+      "Identify",
+      "Mitigate"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "medium",
+    "question": "Which type of law governs relationships between individuals?",
+    "choices": [
+      "Public Law",
+      "Criminal Law",
+      "Private Law",
+      "Constitutional Law"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "Under the doctrine of paramountcy, when provincial and federal laws conflict:",
+    "choices": [
+      "The provincial law prevails",
+      "Both laws are invalid",
+      "The federal law prevails",
+      "The matter is resolved by common law"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What is the typical limitation period for starting a legal claim in Canada?",
+    "choices": [
+      "1 year",
+      "2 years",
+      "5 years",
+      "10 years"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "medium",
+    "question": "Which of the following ADR methods results in a binding decision?",
+    "choices": [
+      "Negotiation",
+      "Mediation",
+      "Arbitration",
+      "Discussion"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "hard",
+    "question": "Which court hears appeals from the Tax Court of Canada?",
+    "choices": [
+      "Federal Court",
+      "Federal Court of Appeal",
+      "Supreme Court",
+      "Provincial Superior Court"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "easy",
+    "question": "What is the standard of care used in negligence?",
+    "choices": [
+      "Strict liability",
+      "Absolute duty",
+      "Reasonable person",
+      "Professional conduct"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "medium",
+    "question": "What defence in negligence claims asserts the plaintiff accepted the risk of harm?",
+    "choices": [
+      "Contributory negligence",
+      "Voluntary assumption of risk",
+      "Illegality",
+      "Remoteness"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "Which element of negligence requires proof that damage would not have occurred 'but for' the defendant\u2019s act?",
+    "choices": [
+      "Duty of care",
+      "Standard of care",
+      "Causation",
+      "Remoteness"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "easy",
+    "question": "Who appoints the officers of a corporation?",
+    "choices": [
+      "Shareholders",
+      "Board of Directors",
+      "CEO",
+      "Auditor"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "Which remedy allows a shareholder to sue on behalf of a corporation?",
+    "choices": [
+      "Oppression remedy",
+      "Derivative action",
+      "Shareholder proposal",
+      "Proxy action"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "Which legal test determines whether an opportunity is a corporate opportunity?",
+    "choices": [
+      "Business judgment rule",
+      "Duty of care",
+      "Corporate opportunity test",
+      "Reasonable shareholder standard"
+    ],
+    "answer": 2
+  }
+]
