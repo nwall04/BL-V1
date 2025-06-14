@@ -1,0 +1,3842 @@
+[
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "What is private law primarily concerned with?",
+    "choices": [
+      "Criminal prosecution",
+      "Relationships between individuals",
+      "Government structure",
+      "Statutory regulation"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "Which source of law has the highest authority in Canada?",
+    "choices": [
+      "Case law",
+      "Statutes",
+      "The Constitution",
+      "Regulations"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "medium",
+    "question": "What does Chapter 1 concept 3 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 3",
+      "Chapter 1 Option B 3",
+      "Chapter 1 Option C 3",
+      "Chapter 1 Option D 3"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "medium",
+    "question": "What does Chapter 1 concept 4 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 4",
+      "Chapter 1 Option B 4",
+      "Chapter 1 Option C 4",
+      "Chapter 1 Option D 4"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 5 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 5",
+      "Chapter 1 Option B 5",
+      "Chapter 1 Option C 5",
+      "Chapter 1 Option D 5"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 6 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 6",
+      "Chapter 1 Option B 6",
+      "Chapter 1 Option C 6",
+      "Chapter 1 Option D 6"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "medium",
+    "question": "What does Chapter 1 concept 7 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 7",
+      "Chapter 1 Option B 7",
+      "Chapter 1 Option C 7",
+      "Chapter 1 Option D 7"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "medium",
+    "question": "What does Chapter 1 concept 8 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 8",
+      "Chapter 1 Option B 8",
+      "Chapter 1 Option C 8",
+      "Chapter 1 Option D 8"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 9 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 9",
+      "Chapter 1 Option B 9",
+      "Chapter 1 Option C 9",
+      "Chapter 1 Option D 9"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "What does Chapter 1 concept 10 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 10",
+      "Chapter 1 Option B 10",
+      "Chapter 1 Option C 10",
+      "Chapter 1 Option D 10"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "What does Chapter 1 concept 11 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 11",
+      "Chapter 1 Option B 11",
+      "Chapter 1 Option C 11",
+      "Chapter 1 Option D 11"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "medium",
+    "question": "What does Chapter 1 concept 12 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 12",
+      "Chapter 1 Option B 12",
+      "Chapter 1 Option C 12",
+      "Chapter 1 Option D 12"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 13 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 13",
+      "Chapter 1 Option B 13",
+      "Chapter 1 Option C 13",
+      "Chapter 1 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "What does Chapter 1 concept 14 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 14",
+      "Chapter 1 Option B 14",
+      "Chapter 1 Option C 14",
+      "Chapter 1 Option D 14"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "What does Chapter 1 concept 15 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 15",
+      "Chapter 1 Option B 15",
+      "Chapter 1 Option C 15",
+      "Chapter 1 Option D 15"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 16 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 16",
+      "Chapter 1 Option B 16",
+      "Chapter 1 Option C 16",
+      "Chapter 1 Option D 16"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "easy",
+    "question": "What does Chapter 1 concept 17 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 17",
+      "Chapter 1 Option B 17",
+      "Chapter 1 Option C 17",
+      "Chapter 1 Option D 17"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 18 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 18",
+      "Chapter 1 Option B 18",
+      "Chapter 1 Option C 18",
+      "Chapter 1 Option D 18"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 19 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 19",
+      "Chapter 1 Option B 19",
+      "Chapter 1 Option C 19",
+      "Chapter 1 Option D 19"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 1",
+    "difficulty": "hard",
+    "question": "What does Chapter 1 concept 20 define in business law?",
+    "choices": [
+      "Chapter 1 Option A 20",
+      "Chapter 1 Option B 20",
+      "Chapter 1 Option C 20",
+      "Chapter 1 Option D 20"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What is the process of resolving disputes through the legal system called?",
+    "choices": [
+      "Arbitration",
+      "Litigation",
+      "Mediation",
+      "Conciliation"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "medium",
+    "question": "What is the usual limitation period for most civil claims in Canada?",
+    "choices": [
+      "1 year",
+      "2 years",
+      "5 years",
+      "10 years"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "medium",
+    "question": "What does Chapter 2 concept 3 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 3",
+      "Chapter 2 Option B 3",
+      "Chapter 2 Option C 3",
+      "Chapter 2 Option D 3"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 4 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 4",
+      "Chapter 2 Option B 4",
+      "Chapter 2 Option C 4",
+      "Chapter 2 Option D 4"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "hard",
+    "question": "What does Chapter 2 concept 5 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 5",
+      "Chapter 2 Option B 5",
+      "Chapter 2 Option C 5",
+      "Chapter 2 Option D 5"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "medium",
+    "question": "What does Chapter 2 concept 6 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 6",
+      "Chapter 2 Option B 6",
+      "Chapter 2 Option C 6",
+      "Chapter 2 Option D 6"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "medium",
+    "question": "What does Chapter 2 concept 7 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 7",
+      "Chapter 2 Option B 7",
+      "Chapter 2 Option C 7",
+      "Chapter 2 Option D 7"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 8 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 8",
+      "Chapter 2 Option B 8",
+      "Chapter 2 Option C 8",
+      "Chapter 2 Option D 8"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "medium",
+    "question": "What does Chapter 2 concept 9 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 9",
+      "Chapter 2 Option B 9",
+      "Chapter 2 Option C 9",
+      "Chapter 2 Option D 9"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "hard",
+    "question": "What does Chapter 2 concept 10 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 10",
+      "Chapter 2 Option B 10",
+      "Chapter 2 Option C 10",
+      "Chapter 2 Option D 10"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "hard",
+    "question": "What does Chapter 2 concept 11 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 11",
+      "Chapter 2 Option B 11",
+      "Chapter 2 Option C 11",
+      "Chapter 2 Option D 11"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 12 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 12",
+      "Chapter 2 Option B 12",
+      "Chapter 2 Option C 12",
+      "Chapter 2 Option D 12"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 13 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 13",
+      "Chapter 2 Option B 13",
+      "Chapter 2 Option C 13",
+      "Chapter 2 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 14 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 14",
+      "Chapter 2 Option B 14",
+      "Chapter 2 Option C 14",
+      "Chapter 2 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 15 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 15",
+      "Chapter 2 Option B 15",
+      "Chapter 2 Option C 15",
+      "Chapter 2 Option D 15"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 16 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 16",
+      "Chapter 2 Option B 16",
+      "Chapter 2 Option C 16",
+      "Chapter 2 Option D 16"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "medium",
+    "question": "What does Chapter 2 concept 17 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 17",
+      "Chapter 2 Option B 17",
+      "Chapter 2 Option C 17",
+      "Chapter 2 Option D 17"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "hard",
+    "question": "What does Chapter 2 concept 18 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 18",
+      "Chapter 2 Option B 18",
+      "Chapter 2 Option C 18",
+      "Chapter 2 Option D 18"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 19 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 19",
+      "Chapter 2 Option B 19",
+      "Chapter 2 Option C 19",
+      "Chapter 2 Option D 19"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 2",
+    "difficulty": "easy",
+    "question": "What does Chapter 2 concept 20 define in business law?",
+    "choices": [
+      "Chapter 2 Option A 20",
+      "Chapter 2 Option B 20",
+      "Chapter 2 Option C 20",
+      "Chapter 2 Option D 20"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "medium",
+    "question": "What does Chapter 3 concept 1 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 1",
+      "Chapter 3 Option B 1",
+      "Chapter 3 Option C 1",
+      "Chapter 3 Option D 1"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 2 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 2",
+      "Chapter 3 Option B 2",
+      "Chapter 3 Option C 2",
+      "Chapter 3 Option D 2"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 3 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 3",
+      "Chapter 3 Option B 3",
+      "Chapter 3 Option C 3",
+      "Chapter 3 Option D 3"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 4 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 4",
+      "Chapter 3 Option B 4",
+      "Chapter 3 Option C 4",
+      "Chapter 3 Option D 4"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "hard",
+    "question": "What does Chapter 3 concept 5 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 5",
+      "Chapter 3 Option B 5",
+      "Chapter 3 Option C 5",
+      "Chapter 3 Option D 5"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "medium",
+    "question": "What does Chapter 3 concept 6 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 6",
+      "Chapter 3 Option B 6",
+      "Chapter 3 Option C 6",
+      "Chapter 3 Option D 6"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "hard",
+    "question": "What does Chapter 3 concept 7 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 7",
+      "Chapter 3 Option B 7",
+      "Chapter 3 Option C 7",
+      "Chapter 3 Option D 7"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "medium",
+    "question": "What does Chapter 3 concept 8 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 8",
+      "Chapter 3 Option B 8",
+      "Chapter 3 Option C 8",
+      "Chapter 3 Option D 8"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "hard",
+    "question": "What does Chapter 3 concept 9 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 9",
+      "Chapter 3 Option B 9",
+      "Chapter 3 Option C 9",
+      "Chapter 3 Option D 9"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "medium",
+    "question": "What does Chapter 3 concept 10 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 10",
+      "Chapter 3 Option B 10",
+      "Chapter 3 Option C 10",
+      "Chapter 3 Option D 10"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "medium",
+    "question": "What does Chapter 3 concept 11 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 11",
+      "Chapter 3 Option B 11",
+      "Chapter 3 Option C 11",
+      "Chapter 3 Option D 11"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 12 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 12",
+      "Chapter 3 Option B 12",
+      "Chapter 3 Option C 12",
+      "Chapter 3 Option D 12"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 13 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 13",
+      "Chapter 3 Option B 13",
+      "Chapter 3 Option C 13",
+      "Chapter 3 Option D 13"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "medium",
+    "question": "What does Chapter 3 concept 14 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 14",
+      "Chapter 3 Option B 14",
+      "Chapter 3 Option C 14",
+      "Chapter 3 Option D 14"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 15 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 15",
+      "Chapter 3 Option B 15",
+      "Chapter 3 Option C 15",
+      "Chapter 3 Option D 15"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 16 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 16",
+      "Chapter 3 Option B 16",
+      "Chapter 3 Option C 16",
+      "Chapter 3 Option D 16"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "medium",
+    "question": "What does Chapter 3 concept 17 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 17",
+      "Chapter 3 Option B 17",
+      "Chapter 3 Option C 17",
+      "Chapter 3 Option D 17"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "hard",
+    "question": "What does Chapter 3 concept 18 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 18",
+      "Chapter 3 Option B 18",
+      "Chapter 3 Option C 18",
+      "Chapter 3 Option D 18"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "easy",
+    "question": "What does Chapter 3 concept 19 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 19",
+      "Chapter 3 Option B 19",
+      "Chapter 3 Option C 19",
+      "Chapter 3 Option D 19"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 3",
+    "difficulty": "hard",
+    "question": "What does Chapter 3 concept 20 define in business law?",
+    "choices": [
+      "Chapter 3 Option A 20",
+      "Chapter 3 Option B 20",
+      "Chapter 3 Option C 20",
+      "Chapter 3 Option D 20"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "medium",
+    "question": "What does Chapter 4 concept 1 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 1",
+      "Chapter 4 Option B 1",
+      "Chapter 4 Option C 1",
+      "Chapter 4 Option D 1"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 2 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 2",
+      "Chapter 4 Option B 2",
+      "Chapter 4 Option C 2",
+      "Chapter 4 Option D 2"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "medium",
+    "question": "What does Chapter 4 concept 3 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 3",
+      "Chapter 4 Option B 3",
+      "Chapter 4 Option C 3",
+      "Chapter 4 Option D 3"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 4 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 4",
+      "Chapter 4 Option B 4",
+      "Chapter 4 Option C 4",
+      "Chapter 4 Option D 4"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 5 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 5",
+      "Chapter 4 Option B 5",
+      "Chapter 4 Option C 5",
+      "Chapter 4 Option D 5"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 6 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 6",
+      "Chapter 4 Option B 6",
+      "Chapter 4 Option C 6",
+      "Chapter 4 Option D 6"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 7 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 7",
+      "Chapter 4 Option B 7",
+      "Chapter 4 Option C 7",
+      "Chapter 4 Option D 7"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 8 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 8",
+      "Chapter 4 Option B 8",
+      "Chapter 4 Option C 8",
+      "Chapter 4 Option D 8"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 9 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 9",
+      "Chapter 4 Option B 9",
+      "Chapter 4 Option C 9",
+      "Chapter 4 Option D 9"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 10 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 10",
+      "Chapter 4 Option B 10",
+      "Chapter 4 Option C 10",
+      "Chapter 4 Option D 10"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 11 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 11",
+      "Chapter 4 Option B 11",
+      "Chapter 4 Option C 11",
+      "Chapter 4 Option D 11"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 12 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 12",
+      "Chapter 4 Option B 12",
+      "Chapter 4 Option C 12",
+      "Chapter 4 Option D 12"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 13 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 13",
+      "Chapter 4 Option B 13",
+      "Chapter 4 Option C 13",
+      "Chapter 4 Option D 13"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 14 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 14",
+      "Chapter 4 Option B 14",
+      "Chapter 4 Option C 14",
+      "Chapter 4 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "medium",
+    "question": "What does Chapter 4 concept 15 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 15",
+      "Chapter 4 Option B 15",
+      "Chapter 4 Option C 15",
+      "Chapter 4 Option D 15"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 16 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 16",
+      "Chapter 4 Option B 16",
+      "Chapter 4 Option C 16",
+      "Chapter 4 Option D 16"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "easy",
+    "question": "What does Chapter 4 concept 17 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 17",
+      "Chapter 4 Option B 17",
+      "Chapter 4 Option C 17",
+      "Chapter 4 Option D 17"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 18 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 18",
+      "Chapter 4 Option B 18",
+      "Chapter 4 Option C 18",
+      "Chapter 4 Option D 18"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "medium",
+    "question": "What does Chapter 4 concept 19 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 19",
+      "Chapter 4 Option B 19",
+      "Chapter 4 Option C 19",
+      "Chapter 4 Option D 19"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 4",
+    "difficulty": "hard",
+    "question": "What does Chapter 4 concept 20 define in business law?",
+    "choices": [
+      "Chapter 4 Option A 20",
+      "Chapter 4 Option B 20",
+      "Chapter 4 Option C 20",
+      "Chapter 4 Option D 20"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 1 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 1",
+      "Chapter 5 Option B 1",
+      "Chapter 5 Option C 1",
+      "Chapter 5 Option D 1"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 2 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 2",
+      "Chapter 5 Option B 2",
+      "Chapter 5 Option C 2",
+      "Chapter 5 Option D 2"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 3 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 3",
+      "Chapter 5 Option B 3",
+      "Chapter 5 Option C 3",
+      "Chapter 5 Option D 3"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 4 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 4",
+      "Chapter 5 Option B 4",
+      "Chapter 5 Option C 4",
+      "Chapter 5 Option D 4"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 5 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 5",
+      "Chapter 5 Option B 5",
+      "Chapter 5 Option C 5",
+      "Chapter 5 Option D 5"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 6 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 6",
+      "Chapter 5 Option B 6",
+      "Chapter 5 Option C 6",
+      "Chapter 5 Option D 6"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 7 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 7",
+      "Chapter 5 Option B 7",
+      "Chapter 5 Option C 7",
+      "Chapter 5 Option D 7"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 8 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 8",
+      "Chapter 5 Option B 8",
+      "Chapter 5 Option C 8",
+      "Chapter 5 Option D 8"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 9 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 9",
+      "Chapter 5 Option B 9",
+      "Chapter 5 Option C 9",
+      "Chapter 5 Option D 9"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 10 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 10",
+      "Chapter 5 Option B 10",
+      "Chapter 5 Option C 10",
+      "Chapter 5 Option D 10"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 11 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 11",
+      "Chapter 5 Option B 11",
+      "Chapter 5 Option C 11",
+      "Chapter 5 Option D 11"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 12 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 12",
+      "Chapter 5 Option B 12",
+      "Chapter 5 Option C 12",
+      "Chapter 5 Option D 12"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 13 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 13",
+      "Chapter 5 Option B 13",
+      "Chapter 5 Option C 13",
+      "Chapter 5 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 14 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 14",
+      "Chapter 5 Option B 14",
+      "Chapter 5 Option C 14",
+      "Chapter 5 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "easy",
+    "question": "What does Chapter 5 concept 15 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 15",
+      "Chapter 5 Option B 15",
+      "Chapter 5 Option C 15",
+      "Chapter 5 Option D 15"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "easy",
+    "question": "What does Chapter 5 concept 16 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 16",
+      "Chapter 5 Option B 16",
+      "Chapter 5 Option C 16",
+      "Chapter 5 Option D 16"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 17 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 17",
+      "Chapter 5 Option B 17",
+      "Chapter 5 Option C 17",
+      "Chapter 5 Option D 17"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "medium",
+    "question": "What does Chapter 5 concept 18 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 18",
+      "Chapter 5 Option B 18",
+      "Chapter 5 Option C 18",
+      "Chapter 5 Option D 18"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "easy",
+    "question": "What does Chapter 5 concept 19 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 19",
+      "Chapter 5 Option B 19",
+      "Chapter 5 Option C 19",
+      "Chapter 5 Option D 19"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 5",
+    "difficulty": "hard",
+    "question": "What does Chapter 5 concept 20 define in business law?",
+    "choices": [
+      "Chapter 5 Option A 20",
+      "Chapter 5 Option B 20",
+      "Chapter 5 Option C 20",
+      "Chapter 5 Option D 20"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "medium",
+    "question": "What does Chapter 6 concept 1 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 1",
+      "Chapter 6 Option B 1",
+      "Chapter 6 Option C 1",
+      "Chapter 6 Option D 1"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 2 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 2",
+      "Chapter 6 Option B 2",
+      "Chapter 6 Option C 2",
+      "Chapter 6 Option D 2"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "medium",
+    "question": "What does Chapter 6 concept 3 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 3",
+      "Chapter 6 Option B 3",
+      "Chapter 6 Option C 3",
+      "Chapter 6 Option D 3"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 4 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 4",
+      "Chapter 6 Option B 4",
+      "Chapter 6 Option C 4",
+      "Chapter 6 Option D 4"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 5 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 5",
+      "Chapter 6 Option B 5",
+      "Chapter 6 Option C 5",
+      "Chapter 6 Option D 5"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 6 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 6",
+      "Chapter 6 Option B 6",
+      "Chapter 6 Option C 6",
+      "Chapter 6 Option D 6"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "medium",
+    "question": "What does Chapter 6 concept 7 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 7",
+      "Chapter 6 Option B 7",
+      "Chapter 6 Option C 7",
+      "Chapter 6 Option D 7"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 8 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 8",
+      "Chapter 6 Option B 8",
+      "Chapter 6 Option C 8",
+      "Chapter 6 Option D 8"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 9 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 9",
+      "Chapter 6 Option B 9",
+      "Chapter 6 Option C 9",
+      "Chapter 6 Option D 9"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "easy",
+    "question": "What does Chapter 6 concept 10 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 10",
+      "Chapter 6 Option B 10",
+      "Chapter 6 Option C 10",
+      "Chapter 6 Option D 10"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "medium",
+    "question": "What does Chapter 6 concept 11 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 11",
+      "Chapter 6 Option B 11",
+      "Chapter 6 Option C 11",
+      "Chapter 6 Option D 11"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "easy",
+    "question": "What does Chapter 6 concept 12 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 12",
+      "Chapter 6 Option B 12",
+      "Chapter 6 Option C 12",
+      "Chapter 6 Option D 12"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "medium",
+    "question": "What does Chapter 6 concept 13 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 13",
+      "Chapter 6 Option B 13",
+      "Chapter 6 Option C 13",
+      "Chapter 6 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "easy",
+    "question": "What does Chapter 6 concept 14 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 14",
+      "Chapter 6 Option B 14",
+      "Chapter 6 Option C 14",
+      "Chapter 6 Option D 14"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "easy",
+    "question": "What does Chapter 6 concept 15 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 15",
+      "Chapter 6 Option B 15",
+      "Chapter 6 Option C 15",
+      "Chapter 6 Option D 15"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "medium",
+    "question": "What does Chapter 6 concept 16 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 16",
+      "Chapter 6 Option B 16",
+      "Chapter 6 Option C 16",
+      "Chapter 6 Option D 16"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "easy",
+    "question": "What does Chapter 6 concept 17 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 17",
+      "Chapter 6 Option B 17",
+      "Chapter 6 Option C 17",
+      "Chapter 6 Option D 17"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "easy",
+    "question": "What does Chapter 6 concept 18 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 18",
+      "Chapter 6 Option B 18",
+      "Chapter 6 Option C 18",
+      "Chapter 6 Option D 18"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 19 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 19",
+      "Chapter 6 Option B 19",
+      "Chapter 6 Option C 19",
+      "Chapter 6 Option D 19"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 6",
+    "difficulty": "hard",
+    "question": "What does Chapter 6 concept 20 define in business law?",
+    "choices": [
+      "Chapter 6 Option A 20",
+      "Chapter 6 Option B 20",
+      "Chapter 6 Option C 20",
+      "Chapter 6 Option D 20"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 1 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 1",
+      "Chapter 7 Option B 1",
+      "Chapter 7 Option C 1",
+      "Chapter 7 Option D 1"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 2 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 2",
+      "Chapter 7 Option B 2",
+      "Chapter 7 Option C 2",
+      "Chapter 7 Option D 2"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 3 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 3",
+      "Chapter 7 Option B 3",
+      "Chapter 7 Option C 3",
+      "Chapter 7 Option D 3"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 4 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 4",
+      "Chapter 7 Option B 4",
+      "Chapter 7 Option C 4",
+      "Chapter 7 Option D 4"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 5 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 5",
+      "Chapter 7 Option B 5",
+      "Chapter 7 Option C 5",
+      "Chapter 7 Option D 5"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 6 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 6",
+      "Chapter 7 Option B 6",
+      "Chapter 7 Option C 6",
+      "Chapter 7 Option D 6"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 7 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 7",
+      "Chapter 7 Option B 7",
+      "Chapter 7 Option C 7",
+      "Chapter 7 Option D 7"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 8 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 8",
+      "Chapter 7 Option B 8",
+      "Chapter 7 Option C 8",
+      "Chapter 7 Option D 8"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "hard",
+    "question": "What does Chapter 7 concept 9 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 9",
+      "Chapter 7 Option B 9",
+      "Chapter 7 Option C 9",
+      "Chapter 7 Option D 9"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 10 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 10",
+      "Chapter 7 Option B 10",
+      "Chapter 7 Option C 10",
+      "Chapter 7 Option D 10"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "hard",
+    "question": "What does Chapter 7 concept 11 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 11",
+      "Chapter 7 Option B 11",
+      "Chapter 7 Option C 11",
+      "Chapter 7 Option D 11"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 12 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 12",
+      "Chapter 7 Option B 12",
+      "Chapter 7 Option C 12",
+      "Chapter 7 Option D 12"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 13 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 13",
+      "Chapter 7 Option B 13",
+      "Chapter 7 Option C 13",
+      "Chapter 7 Option D 13"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 14 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 14",
+      "Chapter 7 Option B 14",
+      "Chapter 7 Option C 14",
+      "Chapter 7 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 15 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 15",
+      "Chapter 7 Option B 15",
+      "Chapter 7 Option C 15",
+      "Chapter 7 Option D 15"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 16 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 16",
+      "Chapter 7 Option B 16",
+      "Chapter 7 Option C 16",
+      "Chapter 7 Option D 16"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 17 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 17",
+      "Chapter 7 Option B 17",
+      "Chapter 7 Option C 17",
+      "Chapter 7 Option D 17"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "hard",
+    "question": "What does Chapter 7 concept 18 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 18",
+      "Chapter 7 Option B 18",
+      "Chapter 7 Option C 18",
+      "Chapter 7 Option D 18"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "medium",
+    "question": "What does Chapter 7 concept 19 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 19",
+      "Chapter 7 Option B 19",
+      "Chapter 7 Option C 19",
+      "Chapter 7 Option D 19"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 7",
+    "difficulty": "easy",
+    "question": "What does Chapter 7 concept 20 define in business law?",
+    "choices": [
+      "Chapter 7 Option A 20",
+      "Chapter 7 Option B 20",
+      "Chapter 7 Option C 20",
+      "Chapter 7 Option D 20"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 1 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 1",
+      "Chapter 8 Option B 1",
+      "Chapter 8 Option C 1",
+      "Chapter 8 Option D 1"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 2 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 2",
+      "Chapter 8 Option B 2",
+      "Chapter 8 Option C 2",
+      "Chapter 8 Option D 2"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 3 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 3",
+      "Chapter 8 Option B 3",
+      "Chapter 8 Option C 3",
+      "Chapter 8 Option D 3"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "hard",
+    "question": "What does Chapter 8 concept 4 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 4",
+      "Chapter 8 Option B 4",
+      "Chapter 8 Option C 4",
+      "Chapter 8 Option D 4"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 5 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 5",
+      "Chapter 8 Option B 5",
+      "Chapter 8 Option C 5",
+      "Chapter 8 Option D 5"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "medium",
+    "question": "What does Chapter 8 concept 6 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 6",
+      "Chapter 8 Option B 6",
+      "Chapter 8 Option C 6",
+      "Chapter 8 Option D 6"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "hard",
+    "question": "What does Chapter 8 concept 7 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 7",
+      "Chapter 8 Option B 7",
+      "Chapter 8 Option C 7",
+      "Chapter 8 Option D 7"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "medium",
+    "question": "What does Chapter 8 concept 8 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 8",
+      "Chapter 8 Option B 8",
+      "Chapter 8 Option C 8",
+      "Chapter 8 Option D 8"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "hard",
+    "question": "What does Chapter 8 concept 9 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 9",
+      "Chapter 8 Option B 9",
+      "Chapter 8 Option C 9",
+      "Chapter 8 Option D 9"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "hard",
+    "question": "What does Chapter 8 concept 10 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 10",
+      "Chapter 8 Option B 10",
+      "Chapter 8 Option C 10",
+      "Chapter 8 Option D 10"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "medium",
+    "question": "What does Chapter 8 concept 11 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 11",
+      "Chapter 8 Option B 11",
+      "Chapter 8 Option C 11",
+      "Chapter 8 Option D 11"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "medium",
+    "question": "What does Chapter 8 concept 12 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 12",
+      "Chapter 8 Option B 12",
+      "Chapter 8 Option C 12",
+      "Chapter 8 Option D 12"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 13 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 13",
+      "Chapter 8 Option B 13",
+      "Chapter 8 Option C 13",
+      "Chapter 8 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 14 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 14",
+      "Chapter 8 Option B 14",
+      "Chapter 8 Option C 14",
+      "Chapter 8 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "medium",
+    "question": "What does Chapter 8 concept 15 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 15",
+      "Chapter 8 Option B 15",
+      "Chapter 8 Option C 15",
+      "Chapter 8 Option D 15"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "medium",
+    "question": "What does Chapter 8 concept 16 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 16",
+      "Chapter 8 Option B 16",
+      "Chapter 8 Option C 16",
+      "Chapter 8 Option D 16"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 17 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 17",
+      "Chapter 8 Option B 17",
+      "Chapter 8 Option C 17",
+      "Chapter 8 Option D 17"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 18 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 18",
+      "Chapter 8 Option B 18",
+      "Chapter 8 Option C 18",
+      "Chapter 8 Option D 18"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "easy",
+    "question": "What does Chapter 8 concept 19 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 19",
+      "Chapter 8 Option B 19",
+      "Chapter 8 Option C 19",
+      "Chapter 8 Option D 19"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 8",
+    "difficulty": "medium",
+    "question": "What does Chapter 8 concept 20 define in business law?",
+    "choices": [
+      "Chapter 8 Option A 20",
+      "Chapter 8 Option B 20",
+      "Chapter 8 Option C 20",
+      "Chapter 8 Option D 20"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "hard",
+    "question": "What does Chapter 9 concept 1 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 1",
+      "Chapter 9 Option B 1",
+      "Chapter 9 Option C 1",
+      "Chapter 9 Option D 1"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 2 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 2",
+      "Chapter 9 Option B 2",
+      "Chapter 9 Option C 2",
+      "Chapter 9 Option D 2"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "easy",
+    "question": "What does Chapter 9 concept 3 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 3",
+      "Chapter 9 Option B 3",
+      "Chapter 9 Option C 3",
+      "Chapter 9 Option D 3"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 4 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 4",
+      "Chapter 9 Option B 4",
+      "Chapter 9 Option C 4",
+      "Chapter 9 Option D 4"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "easy",
+    "question": "What does Chapter 9 concept 5 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 5",
+      "Chapter 9 Option B 5",
+      "Chapter 9 Option C 5",
+      "Chapter 9 Option D 5"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 6 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 6",
+      "Chapter 9 Option B 6",
+      "Chapter 9 Option C 6",
+      "Chapter 9 Option D 6"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 7 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 7",
+      "Chapter 9 Option B 7",
+      "Chapter 9 Option C 7",
+      "Chapter 9 Option D 7"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "easy",
+    "question": "What does Chapter 9 concept 8 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 8",
+      "Chapter 9 Option B 8",
+      "Chapter 9 Option C 8",
+      "Chapter 9 Option D 8"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "hard",
+    "question": "What does Chapter 9 concept 9 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 9",
+      "Chapter 9 Option B 9",
+      "Chapter 9 Option C 9",
+      "Chapter 9 Option D 9"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 10 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 10",
+      "Chapter 9 Option B 10",
+      "Chapter 9 Option C 10",
+      "Chapter 9 Option D 10"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "hard",
+    "question": "What does Chapter 9 concept 11 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 11",
+      "Chapter 9 Option B 11",
+      "Chapter 9 Option C 11",
+      "Chapter 9 Option D 11"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 12 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 12",
+      "Chapter 9 Option B 12",
+      "Chapter 9 Option C 12",
+      "Chapter 9 Option D 12"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "hard",
+    "question": "What does Chapter 9 concept 13 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 13",
+      "Chapter 9 Option B 13",
+      "Chapter 9 Option C 13",
+      "Chapter 9 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 14 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 14",
+      "Chapter 9 Option B 14",
+      "Chapter 9 Option C 14",
+      "Chapter 9 Option D 14"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "medium",
+    "question": "What does Chapter 9 concept 15 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 15",
+      "Chapter 9 Option B 15",
+      "Chapter 9 Option C 15",
+      "Chapter 9 Option D 15"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "easy",
+    "question": "What does Chapter 9 concept 16 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 16",
+      "Chapter 9 Option B 16",
+      "Chapter 9 Option C 16",
+      "Chapter 9 Option D 16"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "easy",
+    "question": "What does Chapter 9 concept 17 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 17",
+      "Chapter 9 Option B 17",
+      "Chapter 9 Option C 17",
+      "Chapter 9 Option D 17"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "hard",
+    "question": "What does Chapter 9 concept 18 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 18",
+      "Chapter 9 Option B 18",
+      "Chapter 9 Option C 18",
+      "Chapter 9 Option D 18"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "easy",
+    "question": "What does Chapter 9 concept 19 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 19",
+      "Chapter 9 Option B 19",
+      "Chapter 9 Option C 19",
+      "Chapter 9 Option D 19"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 9",
+    "difficulty": "hard",
+    "question": "What does Chapter 9 concept 20 define in business law?",
+    "choices": [
+      "Chapter 9 Option A 20",
+      "Chapter 9 Option B 20",
+      "Chapter 9 Option C 20",
+      "Chapter 9 Option D 20"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 1 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 1",
+      "Chapter 10 Option B 1",
+      "Chapter 10 Option C 1",
+      "Chapter 10 Option D 1"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "easy",
+    "question": "What does Chapter 10 concept 2 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 2",
+      "Chapter 10 Option B 2",
+      "Chapter 10 Option C 2",
+      "Chapter 10 Option D 2"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "medium",
+    "question": "What does Chapter 10 concept 3 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 3",
+      "Chapter 10 Option B 3",
+      "Chapter 10 Option C 3",
+      "Chapter 10 Option D 3"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 4 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 4",
+      "Chapter 10 Option B 4",
+      "Chapter 10 Option C 4",
+      "Chapter 10 Option D 4"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "medium",
+    "question": "What does Chapter 10 concept 5 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 5",
+      "Chapter 10 Option B 5",
+      "Chapter 10 Option C 5",
+      "Chapter 10 Option D 5"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "easy",
+    "question": "What does Chapter 10 concept 6 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 6",
+      "Chapter 10 Option B 6",
+      "Chapter 10 Option C 6",
+      "Chapter 10 Option D 6"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 7 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 7",
+      "Chapter 10 Option B 7",
+      "Chapter 10 Option C 7",
+      "Chapter 10 Option D 7"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "easy",
+    "question": "What does Chapter 10 concept 8 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 8",
+      "Chapter 10 Option B 8",
+      "Chapter 10 Option C 8",
+      "Chapter 10 Option D 8"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 9 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 9",
+      "Chapter 10 Option B 9",
+      "Chapter 10 Option C 9",
+      "Chapter 10 Option D 9"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "easy",
+    "question": "What does Chapter 10 concept 10 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 10",
+      "Chapter 10 Option B 10",
+      "Chapter 10 Option C 10",
+      "Chapter 10 Option D 10"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "medium",
+    "question": "What does Chapter 10 concept 11 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 11",
+      "Chapter 10 Option B 11",
+      "Chapter 10 Option C 11",
+      "Chapter 10 Option D 11"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 12 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 12",
+      "Chapter 10 Option B 12",
+      "Chapter 10 Option C 12",
+      "Chapter 10 Option D 12"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 13 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 13",
+      "Chapter 10 Option B 13",
+      "Chapter 10 Option C 13",
+      "Chapter 10 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "easy",
+    "question": "What does Chapter 10 concept 14 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 14",
+      "Chapter 10 Option B 14",
+      "Chapter 10 Option C 14",
+      "Chapter 10 Option D 14"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "medium",
+    "question": "What does Chapter 10 concept 15 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 15",
+      "Chapter 10 Option B 15",
+      "Chapter 10 Option C 15",
+      "Chapter 10 Option D 15"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 16 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 16",
+      "Chapter 10 Option B 16",
+      "Chapter 10 Option C 16",
+      "Chapter 10 Option D 16"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "medium",
+    "question": "What does Chapter 10 concept 17 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 17",
+      "Chapter 10 Option B 17",
+      "Chapter 10 Option C 17",
+      "Chapter 10 Option D 17"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "easy",
+    "question": "What does Chapter 10 concept 18 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 18",
+      "Chapter 10 Option B 18",
+      "Chapter 10 Option C 18",
+      "Chapter 10 Option D 18"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "hard",
+    "question": "What does Chapter 10 concept 19 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 19",
+      "Chapter 10 Option B 19",
+      "Chapter 10 Option C 19",
+      "Chapter 10 Option D 19"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 10",
+    "difficulty": "medium",
+    "question": "What does Chapter 10 concept 20 define in business law?",
+    "choices": [
+      "Chapter 10 Option A 20",
+      "Chapter 10 Option B 20",
+      "Chapter 10 Option C 20",
+      "Chapter 10 Option D 20"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "medium",
+    "question": "What does Chapter 11 concept 1 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 1",
+      "Chapter 11 Option B 1",
+      "Chapter 11 Option C 1",
+      "Chapter 11 Option D 1"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "medium",
+    "question": "What does Chapter 11 concept 2 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 2",
+      "Chapter 11 Option B 2",
+      "Chapter 11 Option C 2",
+      "Chapter 11 Option D 2"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 3 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 3",
+      "Chapter 11 Option B 3",
+      "Chapter 11 Option C 3",
+      "Chapter 11 Option D 3"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "easy",
+    "question": "What does Chapter 11 concept 4 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 4",
+      "Chapter 11 Option B 4",
+      "Chapter 11 Option C 4",
+      "Chapter 11 Option D 4"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 5 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 5",
+      "Chapter 11 Option B 5",
+      "Chapter 11 Option C 5",
+      "Chapter 11 Option D 5"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "easy",
+    "question": "What does Chapter 11 concept 6 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 6",
+      "Chapter 11 Option B 6",
+      "Chapter 11 Option C 6",
+      "Chapter 11 Option D 6"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "medium",
+    "question": "What does Chapter 11 concept 7 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 7",
+      "Chapter 11 Option B 7",
+      "Chapter 11 Option C 7",
+      "Chapter 11 Option D 7"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 8 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 8",
+      "Chapter 11 Option B 8",
+      "Chapter 11 Option C 8",
+      "Chapter 11 Option D 8"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "easy",
+    "question": "What does Chapter 11 concept 9 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 9",
+      "Chapter 11 Option B 9",
+      "Chapter 11 Option C 9",
+      "Chapter 11 Option D 9"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "easy",
+    "question": "What does Chapter 11 concept 10 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 10",
+      "Chapter 11 Option B 10",
+      "Chapter 11 Option C 10",
+      "Chapter 11 Option D 10"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "easy",
+    "question": "What does Chapter 11 concept 11 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 11",
+      "Chapter 11 Option B 11",
+      "Chapter 11 Option C 11",
+      "Chapter 11 Option D 11"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 12 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 12",
+      "Chapter 11 Option B 12",
+      "Chapter 11 Option C 12",
+      "Chapter 11 Option D 12"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 13 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 13",
+      "Chapter 11 Option B 13",
+      "Chapter 11 Option C 13",
+      "Chapter 11 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "medium",
+    "question": "What does Chapter 11 concept 14 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 14",
+      "Chapter 11 Option B 14",
+      "Chapter 11 Option C 14",
+      "Chapter 11 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "easy",
+    "question": "What does Chapter 11 concept 15 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 15",
+      "Chapter 11 Option B 15",
+      "Chapter 11 Option C 15",
+      "Chapter 11 Option D 15"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 16 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 16",
+      "Chapter 11 Option B 16",
+      "Chapter 11 Option C 16",
+      "Chapter 11 Option D 16"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 17 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 17",
+      "Chapter 11 Option B 17",
+      "Chapter 11 Option C 17",
+      "Chapter 11 Option D 17"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 18 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 18",
+      "Chapter 11 Option B 18",
+      "Chapter 11 Option C 18",
+      "Chapter 11 Option D 18"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 19 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 19",
+      "Chapter 11 Option B 19",
+      "Chapter 11 Option C 19",
+      "Chapter 11 Option D 19"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 11",
+    "difficulty": "hard",
+    "question": "What does Chapter 11 concept 20 define in business law?",
+    "choices": [
+      "Chapter 11 Option A 20",
+      "Chapter 11 Option B 20",
+      "Chapter 11 Option C 20",
+      "Chapter 11 Option D 20"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 1 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 1",
+      "Chapter 12 Option B 1",
+      "Chapter 12 Option C 1",
+      "Chapter 12 Option D 1"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 2 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 2",
+      "Chapter 12 Option B 2",
+      "Chapter 12 Option C 2",
+      "Chapter 12 Option D 2"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 3 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 3",
+      "Chapter 12 Option B 3",
+      "Chapter 12 Option C 3",
+      "Chapter 12 Option D 3"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "hard",
+    "question": "What does Chapter 12 concept 4 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 4",
+      "Chapter 12 Option B 4",
+      "Chapter 12 Option C 4",
+      "Chapter 12 Option D 4"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "medium",
+    "question": "What does Chapter 12 concept 5 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 5",
+      "Chapter 12 Option B 5",
+      "Chapter 12 Option C 5",
+      "Chapter 12 Option D 5"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 6 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 6",
+      "Chapter 12 Option B 6",
+      "Chapter 12 Option C 6",
+      "Chapter 12 Option D 6"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "hard",
+    "question": "What does Chapter 12 concept 7 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 7",
+      "Chapter 12 Option B 7",
+      "Chapter 12 Option C 7",
+      "Chapter 12 Option D 7"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 8 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 8",
+      "Chapter 12 Option B 8",
+      "Chapter 12 Option C 8",
+      "Chapter 12 Option D 8"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "medium",
+    "question": "What does Chapter 12 concept 9 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 9",
+      "Chapter 12 Option B 9",
+      "Chapter 12 Option C 9",
+      "Chapter 12 Option D 9"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "medium",
+    "question": "What does Chapter 12 concept 10 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 10",
+      "Chapter 12 Option B 10",
+      "Chapter 12 Option C 10",
+      "Chapter 12 Option D 10"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "medium",
+    "question": "What does Chapter 12 concept 11 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 11",
+      "Chapter 12 Option B 11",
+      "Chapter 12 Option C 11",
+      "Chapter 12 Option D 11"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 12 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 12",
+      "Chapter 12 Option B 12",
+      "Chapter 12 Option C 12",
+      "Chapter 12 Option D 12"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 13 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 13",
+      "Chapter 12 Option B 13",
+      "Chapter 12 Option C 13",
+      "Chapter 12 Option D 13"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "hard",
+    "question": "What does Chapter 12 concept 14 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 14",
+      "Chapter 12 Option B 14",
+      "Chapter 12 Option C 14",
+      "Chapter 12 Option D 14"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "medium",
+    "question": "What does Chapter 12 concept 15 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 15",
+      "Chapter 12 Option B 15",
+      "Chapter 12 Option C 15",
+      "Chapter 12 Option D 15"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "hard",
+    "question": "What does Chapter 12 concept 16 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 16",
+      "Chapter 12 Option B 16",
+      "Chapter 12 Option C 16",
+      "Chapter 12 Option D 16"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "medium",
+    "question": "What does Chapter 12 concept 17 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 17",
+      "Chapter 12 Option B 17",
+      "Chapter 12 Option C 17",
+      "Chapter 12 Option D 17"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 18 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 18",
+      "Chapter 12 Option B 18",
+      "Chapter 12 Option C 18",
+      "Chapter 12 Option D 18"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "hard",
+    "question": "What does Chapter 12 concept 19 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 19",
+      "Chapter 12 Option B 19",
+      "Chapter 12 Option C 19",
+      "Chapter 12 Option D 19"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 12",
+    "difficulty": "easy",
+    "question": "What does Chapter 12 concept 20 define in business law?",
+    "choices": [
+      "Chapter 12 Option A 20",
+      "Chapter 12 Option B 20",
+      "Chapter 12 Option C 20",
+      "Chapter 12 Option D 20"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "easy",
+    "question": "What does Chapter 20 concept 1 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 1",
+      "Chapter 20 Option B 1",
+      "Chapter 20 Option C 1",
+      "Chapter 20 Option D 1"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 2 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 2",
+      "Chapter 20 Option B 2",
+      "Chapter 20 Option C 2",
+      "Chapter 20 Option D 2"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 3 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 3",
+      "Chapter 20 Option B 3",
+      "Chapter 20 Option C 3",
+      "Chapter 20 Option D 3"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "easy",
+    "question": "What does Chapter 20 concept 4 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 4",
+      "Chapter 20 Option B 4",
+      "Chapter 20 Option C 4",
+      "Chapter 20 Option D 4"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "easy",
+    "question": "What does Chapter 20 concept 5 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 5",
+      "Chapter 20 Option B 5",
+      "Chapter 20 Option C 5",
+      "Chapter 20 Option D 5"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "medium",
+    "question": "What does Chapter 20 concept 6 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 6",
+      "Chapter 20 Option B 6",
+      "Chapter 20 Option C 6",
+      "Chapter 20 Option D 6"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "medium",
+    "question": "What does Chapter 20 concept 7 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 7",
+      "Chapter 20 Option B 7",
+      "Chapter 20 Option C 7",
+      "Chapter 20 Option D 7"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "medium",
+    "question": "What does Chapter 20 concept 8 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 8",
+      "Chapter 20 Option B 8",
+      "Chapter 20 Option C 8",
+      "Chapter 20 Option D 8"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "medium",
+    "question": "What does Chapter 20 concept 9 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 9",
+      "Chapter 20 Option B 9",
+      "Chapter 20 Option C 9",
+      "Chapter 20 Option D 9"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 10 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 10",
+      "Chapter 20 Option B 10",
+      "Chapter 20 Option C 10",
+      "Chapter 20 Option D 10"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 11 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 11",
+      "Chapter 20 Option B 11",
+      "Chapter 20 Option C 11",
+      "Chapter 20 Option D 11"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "medium",
+    "question": "What does Chapter 20 concept 12 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 12",
+      "Chapter 20 Option B 12",
+      "Chapter 20 Option C 12",
+      "Chapter 20 Option D 12"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "easy",
+    "question": "What does Chapter 20 concept 13 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 13",
+      "Chapter 20 Option B 13",
+      "Chapter 20 Option C 13",
+      "Chapter 20 Option D 13"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 14 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 14",
+      "Chapter 20 Option B 14",
+      "Chapter 20 Option C 14",
+      "Chapter 20 Option D 14"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 15 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 15",
+      "Chapter 20 Option B 15",
+      "Chapter 20 Option C 15",
+      "Chapter 20 Option D 15"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 16 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 16",
+      "Chapter 20 Option B 16",
+      "Chapter 20 Option C 16",
+      "Chapter 20 Option D 16"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "medium",
+    "question": "What does Chapter 20 concept 17 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 17",
+      "Chapter 20 Option B 17",
+      "Chapter 20 Option C 17",
+      "Chapter 20 Option D 17"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "medium",
+    "question": "What does Chapter 20 concept 18 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 18",
+      "Chapter 20 Option B 18",
+      "Chapter 20 Option C 18",
+      "Chapter 20 Option D 18"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "hard",
+    "question": "What does Chapter 20 concept 19 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 19",
+      "Chapter 20 Option B 19",
+      "Chapter 20 Option C 19",
+      "Chapter 20 Option D 19"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 20",
+    "difficulty": "easy",
+    "question": "What does Chapter 20 concept 20 define in business law?",
+    "choices": [
+      "Chapter 20 Option A 20",
+      "Chapter 20 Option B 20",
+      "Chapter 20 Option C 20",
+      "Chapter 20 Option D 20"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 1 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 1",
+      "Chapter 21 Option B 1",
+      "Chapter 21 Option C 1",
+      "Chapter 21 Option D 1"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "hard",
+    "question": "What does Chapter 21 concept 2 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 2",
+      "Chapter 21 Option B 2",
+      "Chapter 21 Option C 2",
+      "Chapter 21 Option D 2"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "medium",
+    "question": "What does Chapter 21 concept 3 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 3",
+      "Chapter 21 Option B 3",
+      "Chapter 21 Option C 3",
+      "Chapter 21 Option D 3"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "medium",
+    "question": "What does Chapter 21 concept 4 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 4",
+      "Chapter 21 Option B 4",
+      "Chapter 21 Option C 4",
+      "Chapter 21 Option D 4"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "hard",
+    "question": "What does Chapter 21 concept 5 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 5",
+      "Chapter 21 Option B 5",
+      "Chapter 21 Option C 5",
+      "Chapter 21 Option D 5"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "hard",
+    "question": "What does Chapter 21 concept 6 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 6",
+      "Chapter 21 Option B 6",
+      "Chapter 21 Option C 6",
+      "Chapter 21 Option D 6"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "hard",
+    "question": "What does Chapter 21 concept 7 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 7",
+      "Chapter 21 Option B 7",
+      "Chapter 21 Option C 7",
+      "Chapter 21 Option D 7"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "medium",
+    "question": "What does Chapter 21 concept 8 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 8",
+      "Chapter 21 Option B 8",
+      "Chapter 21 Option C 8",
+      "Chapter 21 Option D 8"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 9 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 9",
+      "Chapter 21 Option B 9",
+      "Chapter 21 Option C 9",
+      "Chapter 21 Option D 9"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 10 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 10",
+      "Chapter 21 Option B 10",
+      "Chapter 21 Option C 10",
+      "Chapter 21 Option D 10"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 11 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 11",
+      "Chapter 21 Option B 11",
+      "Chapter 21 Option C 11",
+      "Chapter 21 Option D 11"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 12 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 12",
+      "Chapter 21 Option B 12",
+      "Chapter 21 Option C 12",
+      "Chapter 21 Option D 12"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "hard",
+    "question": "What does Chapter 21 concept 13 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 13",
+      "Chapter 21 Option B 13",
+      "Chapter 21 Option C 13",
+      "Chapter 21 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "medium",
+    "question": "What does Chapter 21 concept 14 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 14",
+      "Chapter 21 Option B 14",
+      "Chapter 21 Option C 14",
+      "Chapter 21 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "hard",
+    "question": "What does Chapter 21 concept 15 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 15",
+      "Chapter 21 Option B 15",
+      "Chapter 21 Option C 15",
+      "Chapter 21 Option D 15"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 16 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 16",
+      "Chapter 21 Option B 16",
+      "Chapter 21 Option C 16",
+      "Chapter 21 Option D 16"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "medium",
+    "question": "What does Chapter 21 concept 17 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 17",
+      "Chapter 21 Option B 17",
+      "Chapter 21 Option C 17",
+      "Chapter 21 Option D 17"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "hard",
+    "question": "What does Chapter 21 concept 18 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 18",
+      "Chapter 21 Option B 18",
+      "Chapter 21 Option C 18",
+      "Chapter 21 Option D 18"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 19 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 19",
+      "Chapter 21 Option B 19",
+      "Chapter 21 Option C 19",
+      "Chapter 21 Option D 19"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 21",
+    "difficulty": "easy",
+    "question": "What does Chapter 21 concept 20 define in business law?",
+    "choices": [
+      "Chapter 21 Option A 20",
+      "Chapter 21 Option B 20",
+      "Chapter 21 Option C 20",
+      "Chapter 21 Option D 20"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "What does Chapter 22 concept 1 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 1",
+      "Chapter 22 Option B 1",
+      "Chapter 22 Option C 1",
+      "Chapter 22 Option D 1"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "easy",
+    "question": "What does Chapter 22 concept 2 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 2",
+      "Chapter 22 Option B 2",
+      "Chapter 22 Option C 2",
+      "Chapter 22 Option D 2"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "easy",
+    "question": "What does Chapter 22 concept 3 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 3",
+      "Chapter 22 Option B 3",
+      "Chapter 22 Option C 3",
+      "Chapter 22 Option D 3"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 4 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 4",
+      "Chapter 22 Option B 4",
+      "Chapter 22 Option C 4",
+      "Chapter 22 Option D 4"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "easy",
+    "question": "What does Chapter 22 concept 5 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 5",
+      "Chapter 22 Option B 5",
+      "Chapter 22 Option C 5",
+      "Chapter 22 Option D 5"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 6 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 6",
+      "Chapter 22 Option B 6",
+      "Chapter 22 Option C 6",
+      "Chapter 22 Option D 6"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "easy",
+    "question": "What does Chapter 22 concept 7 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 7",
+      "Chapter 22 Option B 7",
+      "Chapter 22 Option C 7",
+      "Chapter 22 Option D 7"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "What does Chapter 22 concept 8 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 8",
+      "Chapter 22 Option B 8",
+      "Chapter 22 Option C 8",
+      "Chapter 22 Option D 8"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 9 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 9",
+      "Chapter 22 Option B 9",
+      "Chapter 22 Option C 9",
+      "Chapter 22 Option D 9"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 10 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 10",
+      "Chapter 22 Option B 10",
+      "Chapter 22 Option C 10",
+      "Chapter 22 Option D 10"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 11 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 11",
+      "Chapter 22 Option B 11",
+      "Chapter 22 Option C 11",
+      "Chapter 22 Option D 11"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "easy",
+    "question": "What does Chapter 22 concept 12 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 12",
+      "Chapter 22 Option B 12",
+      "Chapter 22 Option C 12",
+      "Chapter 22 Option D 12"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 13 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 13",
+      "Chapter 22 Option B 13",
+      "Chapter 22 Option C 13",
+      "Chapter 22 Option D 13"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "What does Chapter 22 concept 14 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 14",
+      "Chapter 22 Option B 14",
+      "Chapter 22 Option C 14",
+      "Chapter 22 Option D 14"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "What does Chapter 22 concept 15 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 15",
+      "Chapter 22 Option B 15",
+      "Chapter 22 Option C 15",
+      "Chapter 22 Option D 15"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "What does Chapter 22 concept 16 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 16",
+      "Chapter 22 Option B 16",
+      "Chapter 22 Option C 16",
+      "Chapter 22 Option D 16"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 17 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 17",
+      "Chapter 22 Option B 17",
+      "Chapter 22 Option C 17",
+      "Chapter 22 Option D 17"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "What does Chapter 22 concept 18 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 18",
+      "Chapter 22 Option B 18",
+      "Chapter 22 Option C 18",
+      "Chapter 22 Option D 18"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "medium",
+    "question": "What does Chapter 22 concept 19 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 19",
+      "Chapter 22 Option B 19",
+      "Chapter 22 Option C 19",
+      "Chapter 22 Option D 19"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 22",
+    "difficulty": "hard",
+    "question": "What does Chapter 22 concept 20 define in business law?",
+    "choices": [
+      "Chapter 22 Option A 20",
+      "Chapter 22 Option B 20",
+      "Chapter 22 Option C 20",
+      "Chapter 22 Option D 20"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "easy",
+    "question": "What does Chapter 25 concept 1 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 1",
+      "Chapter 25 Option B 1",
+      "Chapter 25 Option C 1",
+      "Chapter 25 Option D 1"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "medium",
+    "question": "What does Chapter 25 concept 2 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 2",
+      "Chapter 25 Option B 2",
+      "Chapter 25 Option C 2",
+      "Chapter 25 Option D 2"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "easy",
+    "question": "What does Chapter 25 concept 3 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 3",
+      "Chapter 25 Option B 3",
+      "Chapter 25 Option C 3",
+      "Chapter 25 Option D 3"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "medium",
+    "question": "What does Chapter 25 concept 4 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 4",
+      "Chapter 25 Option B 4",
+      "Chapter 25 Option C 4",
+      "Chapter 25 Option D 4"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "easy",
+    "question": "What does Chapter 25 concept 5 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 5",
+      "Chapter 25 Option B 5",
+      "Chapter 25 Option C 5",
+      "Chapter 25 Option D 5"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 6 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 6",
+      "Chapter 25 Option B 6",
+      "Chapter 25 Option C 6",
+      "Chapter 25 Option D 6"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "easy",
+    "question": "What does Chapter 25 concept 7 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 7",
+      "Chapter 25 Option B 7",
+      "Chapter 25 Option C 7",
+      "Chapter 25 Option D 7"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 8 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 8",
+      "Chapter 25 Option B 8",
+      "Chapter 25 Option C 8",
+      "Chapter 25 Option D 8"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "medium",
+    "question": "What does Chapter 25 concept 9 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 9",
+      "Chapter 25 Option B 9",
+      "Chapter 25 Option C 9",
+      "Chapter 25 Option D 9"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "easy",
+    "question": "What does Chapter 25 concept 10 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 10",
+      "Chapter 25 Option B 10",
+      "Chapter 25 Option C 10",
+      "Chapter 25 Option D 10"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 11 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 11",
+      "Chapter 25 Option B 11",
+      "Chapter 25 Option C 11",
+      "Chapter 25 Option D 11"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "medium",
+    "question": "What does Chapter 25 concept 12 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 12",
+      "Chapter 25 Option B 12",
+      "Chapter 25 Option C 12",
+      "Chapter 25 Option D 12"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 13 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 13",
+      "Chapter 25 Option B 13",
+      "Chapter 25 Option C 13",
+      "Chapter 25 Option D 13"
+    ],
+    "answer": 3
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "easy",
+    "question": "What does Chapter 25 concept 14 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 14",
+      "Chapter 25 Option B 14",
+      "Chapter 25 Option C 14",
+      "Chapter 25 Option D 14"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 15 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 15",
+      "Chapter 25 Option B 15",
+      "Chapter 25 Option C 15",
+      "Chapter 25 Option D 15"
+    ],
+    "answer": 1
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 16 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 16",
+      "Chapter 25 Option B 16",
+      "Chapter 25 Option C 16",
+      "Chapter 25 Option D 16"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 17 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 17",
+      "Chapter 25 Option B 17",
+      "Chapter 25 Option C 17",
+      "Chapter 25 Option D 17"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "hard",
+    "question": "What does Chapter 25 concept 18 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 18",
+      "Chapter 25 Option B 18",
+      "Chapter 25 Option C 18",
+      "Chapter 25 Option D 18"
+    ],
+    "answer": 2
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "medium",
+    "question": "What does Chapter 25 concept 19 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 19",
+      "Chapter 25 Option B 19",
+      "Chapter 25 Option C 19",
+      "Chapter 25 Option D 19"
+    ],
+    "answer": 0
+  },
+  {
+    "chapter": "Chapter 25",
+    "difficulty": "easy",
+    "question": "What does Chapter 25 concept 20 define in business law?",
+    "choices": [
+      "Chapter 25 Option A 20",
+      "Chapter 25 Option B 20",
+      "Chapter 25 Option C 20",
+      "Chapter 25 Option D 20"
+    ],
+    "answer": 1
+  }
+]
